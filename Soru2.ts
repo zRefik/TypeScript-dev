@@ -17,7 +17,7 @@ type Vehicle = Car | Truck;
 
 function useVehicle(vehicle: Vehicle) {
   vehicle.drive();
-  if(vehicle instanceof Truck){
+  if("loadCargo" in vehicle){
     return (vehicle.loadCargo());
   } 
 
