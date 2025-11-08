@@ -5,7 +5,7 @@ Soru2
 in ile vehicle içinde loadCargo fonksiyonunu kontrol edip varsa ekrana yazdır
 
 Soru3
-# ile gizli bir dizi oluştur, erişilemsein diye void ile metodu oluştur, push kullanarak logHistory dizisine mesajı ekle, getHistory fonksiyonu ile logHistoryi yazdır
+"#" ile gizli bir dizi oluştur, erişilemsein diye void ile metodu oluştur, push kullanarak logHistory dizisine mesajı ekle, getHistory fonksiyonu ile logHistoryi yazdır
 
 Soru4
 return ile obj[key] döndürülür
